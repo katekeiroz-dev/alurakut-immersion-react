@@ -4,7 +4,7 @@ Project developed during the 3rd edition of Immersão React promoted by
 
 ![Capa do Projeto](https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://alurakut-eta.vercel.app/&v=2)
 
-# Contents
+## Contents
 
 -  Demo
 - Technologies]
@@ -13,17 +13,17 @@ Project developed during the 3rd edition of Immersão React promoted by
 - Contributing
 - License
 
-# Demo
+## Demo
 
 
 
-# 💻 Technologies
+## 💻 Technologies
 
 - [React](https://reactjs.org)
 - [Next.JS](https://nextjs.org/)
 - [styled-components](https://styled-components.com/)
 
-# ⚙️ Getting started
+## ⚙️ Getting started
 
 ```bash
 yarn install
@@ -41,15 +41,13 @@ npm run dev
 Go to http://localhost:3000/ to see the application running.
 
 
-# ✔️ Practiced /learnt
+## ✔️ Practiced /learnt
   - Lesson 1: Components with React, Styled Components and NextJS
   - Lesson 2: React, State and the first Form
   - Lesson 3: Hooks in React. useEffect and HTTP protocol
   - Lesson 4: Requests with GraphQL, BFF and AJAX!
 
-# Contributing
-
-This project follows the Angular Convention commits pattern. [Click](./commitlint.config.js) to see the available prefixes.
+## Contributing
 
 - Fork this repository;
 - Create a new branch to develop your feature: `git checkout -b my-feature`;
