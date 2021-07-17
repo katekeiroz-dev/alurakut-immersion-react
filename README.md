@@ -44,8 +44,8 @@ Go to http://localhost:3000/ to see the application running.
 ## ✔️ Practiced /learnt
   - Lesson 1: Components with React, Styled Components and NextJS
   - Lesson 2: React, State and the first Form
-  - Lesson 3: Hooks in React. useEffect and HTTP protocol
-  - Lesson 4: Requests with GraphQL, BFF and AJAX!
+  - Lesson 3: Hooks in React. useEffect, HTTP protocol, DatoCMS, 
+  - Lesson 4: Consuming APIs ,Requests with GraphQL, BFF and AJAX!
 
 ## Contributing
 
