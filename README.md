@@ -2,7 +2,9 @@
 
 Project developed during the 3rd edition of Immersão React promoted by
 
-![Capa do Projeto](https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://alurakut-eta.vercel.app/&v=2)
+<img width="744" alt="Screenshot 2021-07-17 at 01 53 00" src="https://user-images.githubusercontent.com/81806904/126020584-772c2371-8fc3-4741-80fc-18a0c6647968.png">
+<img width="1254" alt="Screenshot 2021-07-17 at 01 53 51" src="https://user-images.githubusercontent.com/81806904/126020617-dd6ad491-760e-4c10-b900-2cd9d6d7c601.png">
+
 
 ## Contents
 
@@ -14,6 +16,7 @@ Project developed during the 3rd edition of Immersão React promoted by
 - License
 
 ## Demo
+To check this project out, click on the [link](https://alurakut-immersion-react.vercel.app)
 
 
 
