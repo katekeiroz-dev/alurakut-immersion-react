@@ -7,8 +7,8 @@ Project developed during the 3rd edition of Immersão React promoted by
 ## Contents
 
 -  Demo
-- Technologies]
-- Getting started]
+- Technologies
+- Getting started
 - Practiced /learnt
 - Contributing
 - License
