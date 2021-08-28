@@ -11,7 +11,7 @@ Project developed during the 3rd edition of Immersão React promoted by
 -  Demo
 - Technologies
 - Getting started
-- Practiced /learnt
+- Practiced / learnt
 - Contributing
 - License
 
@@ -56,4 +56,4 @@ Go to http://localhost:3000/ to see the application running.
 - Create a new branch to develop your feature: `git checkout -b my-feature`;
 - Commit your changes: `git commit -m 'feat: my new feature'`;
 - Push to your branch: `git push origin my-feature`.
-- 
+
