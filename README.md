@@ -33,7 +33,7 @@ yarn install
 # ou
 npm install
 ```
- 🏃 Execute the project
+-  🏃 Execute the project
 
 ```bash
 yarn dev
